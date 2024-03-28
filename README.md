@@ -20,6 +20,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&card_width=850&show_icons=true&theme=transparent)
+
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
