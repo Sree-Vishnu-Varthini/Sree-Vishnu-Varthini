@@ -14,6 +14,8 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=Profile%20Views&labelColor=%23697689&countColor=%2302066f&style=plastic&labelStyle=none)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=javascript-dark&card_width=800)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=dark&background=000000)](https://git.io/streak-stats)
