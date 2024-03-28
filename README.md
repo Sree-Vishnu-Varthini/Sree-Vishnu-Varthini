@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Visitor Count](https://profile-counter.glitch.me/Sree-Vishnu-Varthini/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=Profile%20Views&labelColor=%23697689&countColor=%2302066f&style=plastic&labelStyle=none)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
