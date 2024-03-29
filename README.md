@@ -11,7 +11,7 @@
 </h1>
 
 
-I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
+
 
 
 
@@ -31,6 +31,9 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
   </a>
 </div>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
+
+
 
 - 👋 Hi, I’m Sree-Vishnu-Varthini
 - 👀 I’m interested in ...
@@ -39,9 +42,11 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 - 📫 How to reach me - sreevishnuvarthini@gmail.com
 - ⚡ Fun fact: ...
 
+# :sparkles: About Me
+
+I'm a dedicated Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India. With a keen interest in leveraging technology to solve real-world problems, I'm constantly exploring new tools and frameworks to enhance my skills and create innovative solutions.
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=Profile%20Views&labelColor=%23697689&countColor=%2302066f&style=plastic&labelStyle=none)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=codeSTACKr&card_width=850)](https://git.io/streak-stats)
 
@@ -49,7 +54,10 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=codeSTACKr&border_color=FFFFFF&card_width=850&show_icons=true)
 
+<!--Get in Touch:
 
+🔗 Connect with me on [LinkedIn](Your LinkedIn Profile URL) to stay updated on my latest projects and endeavors.
+📧 Feel free to drop me an email at Your Email Address to discuss opportunities or just say hi!
 
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
