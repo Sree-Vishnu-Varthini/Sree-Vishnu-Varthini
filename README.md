@@ -39,6 +39,10 @@
 
 I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
 
+- 💻 I'm proficient in both frontend and backend development, with experience in technologies like HTML, CSS, JavaScript and MERN Stack Technologies.
+- 🌐 I love building dynamic and responsive web applications that deliver seamless user experiences.
+- 🚀 Always eager to collaborate on exciting projects and contribute to open-source communities.
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=codeSTACKr&card_width=850)](https://git.io/streak-stats)
