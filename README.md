@@ -74,6 +74,9 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
   <img width=50px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">&nbsp;
+  <img width=50px src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">&nbsp;
+  <img width=50px src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png?f=webp">&nbsp;
+  <img width=50px src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png">&nbsp;
 
 </div>
 
