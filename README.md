@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNpb29zZG84azNycmI2cnljNHNidDl3ZHR1Y242MW0ycWF5d3NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="850"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/sree-vishnu-varthini-s">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
 
 # :sparkles: About Me
 
@@ -61,6 +59,8 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
     <li>The application continuously tracks critical environmental parameters, including humidity, soil moisture, and temperature, and automatically activates the irrigation system when conditions deviate from set parameters.</li>
     <li><strong>Tech Stack:</strong> <em>NodeMCU, Temperature, Soil moisture and DHT11 sensor, Arduino IDE, Blynk</em></li></ul>
 </details>
+
+# :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=codeSTACKr&card_width=850)](https://git.io/streak-stats)
 
