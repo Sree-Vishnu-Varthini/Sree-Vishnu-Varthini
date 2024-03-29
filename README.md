@@ -37,7 +37,7 @@
 
 # :sparkles: About Me
 
-I'm a dedicated Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India. With a keen interest in leveraging technology to solve real-world problems, I'm constantly exploring new tools and frameworks to enhance my skills and create innovative solutions.
+I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
 
 
 
