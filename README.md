@@ -1,5 +1,5 @@
 <h1>
-  Hi there ! :wave: I'm Vishnu Varthini 
+  Hi there ! :wave: I'm Vishnu Varthini
 </h1>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
@@ -18,6 +18,21 @@
 </div>
 
 # :sparkles: About Me
+
+```js
+  const Sree Vishnu Varthini = {
+  pronouns: "she" | "her",
+  code: [Javascript, C, HTML, CSS, Python, Java],
+  tools: [React, Node, Express],
+  database: [MongoDB, MySQL],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
 - 💻 I'm proficient in both frontend and backend development, with experience in technologies like HTML, CSS, JavaScript and MERN Stack Technologies.
@@ -85,7 +100,7 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 # :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
-
+  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true)
