@@ -39,6 +39,8 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 - 🌐 I love building dynamic and responsive web applications that deliver seamless user experiences.
 - 🚀 Always eager to collaborate on exciting projects and contribute to open-source communities.
 
+<br>
+
 # :star2: My Projects
 <details> 
   <summary> Inventory Management System </summary>
@@ -74,6 +76,7 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
     <li>The application continuously tracks critical environmental parameters, including humidity, soil moisture, and temperature, and automatically activates the irrigation system when conditions deviate from set parameters.</li>
     <li><strong>Tech Stack:</strong> <em>NodeMCU, Temperature, Soil moisture and DHT11 sensor, Arduino IDE, Blynk</em></li></ul>
 </details>
+<br>
 
 # :globe_with_meridians: Languages and Tools:
 <div>
@@ -94,8 +97,7 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
   <img width=50px src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png">&nbsp;
 
 </div>
-
-</br>
+<br>
 
 # :fire: My Stats
 
@@ -108,4 +110,5 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<h1>$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ </h1>
 --->
