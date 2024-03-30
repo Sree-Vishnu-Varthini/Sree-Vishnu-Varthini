@@ -120,7 +120,7 @@ Sree Vishnu Varthini:
 </div>
 <br>
 
-# :fire: My Stats
+# 📊 My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
   
