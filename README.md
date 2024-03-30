@@ -99,7 +99,7 @@ Sree Vishnu Varthini:
 </details>
 <br>
 
-# :globe_with_meridians: Languages and Tools:
+# ⚒️: Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
