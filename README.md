@@ -84,11 +84,11 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 
 # :fire: My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=codeSTACKr&card_width=850)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=codeSTACKr&card_width=850&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=codeSTACKr&border_color=FFFFFF&card_width=850&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true)
 
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
