@@ -19,20 +19,41 @@
 
 # :sparkles: About Me
 
-```js
-  const Sree Vishnu Varthini = {
-  pronouns: "she" | "her",
-  code: [Javascript, C, HTML, CSS, Python, Java],
-  tools: [React, Node, Express],
-  database: [MongoDB, MySQL],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+```yaml
+Sree Vishnu Varthini:
+  pronouns: "she" | "her"
+  located_in: Coimbatore, India
+  title: "Full-Stack Developer"
+
+  education: 
+    - "Bachelor's in Electronics and Communication Engineering"
+    - "Sri Eshwar College Of Engineering"
+
+  technical_experience:
+    - "Intern - MERN Stack, RampeX Technologies"
+    - "Intern - Web Development, Octanet Services"
+    - "Intern - Embedded Systems, Emglitz Technologies"
+
+  fields_of_interests:
+    [
+      "Web Development"
+      "UI/UX"
+      "Artificial Intelligence"
+      "Prompt Engineering"
+    ]
+
+  professional_affiliations:
+    [
+      Secratary: "Toastmasters International"
+      Student_Member: "IEEE"
+    ]
+
+  hobbies: ["Reading", "Music", "Art"]
 ```
+
+<!--code: [HTML, CSS, Javascript, C, Python, Java],
+  tools: [React, Node, Express],
+  database: [MongoDB, MySQL],-->
 
 I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
 - 💻 I'm proficient in both frontend and backend development, with experience in technologies like HTML, CSS, JavaScript and MERN Stack Technologies.
@@ -106,7 +127,6 @@ I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true)
-
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
