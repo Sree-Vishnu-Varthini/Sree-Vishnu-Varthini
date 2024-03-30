@@ -53,12 +53,12 @@ Sree Vishnu Varthini:
 
 <!--code: [HTML, CSS, Javascript, C, Python, Java],
   tools: [React, Node, Express],
-  database: [MongoDB, MySQL],-->
-
-I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
+  database: [MongoDB, MySQL],
+  I'm a Full-Stack Developer currently pursuing a Bachelor's degree in Engineering at Sri Eshwar College of Engineering in Coimbatore, India.
 - 💻 I'm proficient in both frontend and backend development, with experience in technologies like HTML, CSS, JavaScript and MERN Stack Technologies.
 - 🌐 I love building dynamic and responsive web applications that deliver seamless user experiences.
 - 🚀 Always eager to collaborate on exciting projects and contribute to open-source communities.
+-->
 
 <br>
 
