@@ -74,7 +74,7 @@ Sree Vishnu Varthini:
     education: 
       - "Bachelor's in Electronics and Communication Engineering"
       - "Sri Eshwar College Of Engineering"
-      - 2022 - 2026
+      -  2022 - 2026
   
     technical_experience:
       - "Intern - MERN Stack, RampeX Technologies"
