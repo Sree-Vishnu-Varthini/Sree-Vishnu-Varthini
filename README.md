@@ -19,18 +19,18 @@
 
 # :sparkles: About Me
 
-```yaml
+<!--```yaml
 Sree Vishnu Varthini:
   pronouns: "she" | "her"
   located_in: Coimbatore, India
   title: "Full-Stack Developer"
 
   skills:
-      {
-          web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
-          programming: [ C, Java, Python, Data Structures]
-          database: [ MongoDB, MySQL]
-      }
+    [
+       web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
+       programming: [ C, Java, Python, Data Structures]
+       database: [ MongoDB, MySQL]
+    ]
 
   education: 
     - "Bachelor's in Electronics and Communication Engineering"
@@ -58,7 +58,43 @@ Sree Vishnu Varthini:
     ]
 
   hobbies: ["Reading", "Music", "Art"]
+``` -->
+
+```yaml
+Sree Vishnu Varthini:
+  pronouns: "she" | "her"
+  located_in: Coimbatore, India
+  title: "Full-Stack Developer"
+
+  skills:
+    -  web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
+    -  programming: [ C, Java, Python, Data Structures]
+    -  database: [ MongoDB, MySQL]
+
+  education: 
+    - "Bachelor's in Electronics and Communication Engineering"
+    - "Sri Eshwar College Of Engineering"
+    - 2022 - 2026
+
+  technical_experience:
+    - "Intern - MERN Stack, RampeX Technologies"
+    - "Intern - Web Development, Octanet Services"
+    - "Intern - Embedded Systems, Emglitz Technologies"
+
+  fields_of_interests:
+    -  "Web Development"
+    -  "UI/UX"
+    -  "Artificial Intelligence"
+    -  "Prompt Engineering"
+
+  professional_affiliations:
+    -  Secratary: "Toastmasters International"
+    -  Student_Member: "IEEE (Institute of Electrical and Electronics Engineers)"
+    -  Student_Member: "WIE (Women In Engineering)"
+
+  hobbies: ["Reading", "Music", "Art"]
 ```
+
 
 <!--code: [HTML, CSS, Javascript, C, Python, Java],
   tools: [React, Node, Express],
