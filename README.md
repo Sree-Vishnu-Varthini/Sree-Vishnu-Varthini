@@ -25,6 +25,13 @@ Sree Vishnu Varthini:
   located_in: Coimbatore, India
   title: "Full-Stack Developer"
 
+  skills:
+      {
+          web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
+          programming: [ C, Java, Python, Data Structures]
+          database: [ MongoDB, MySQL]
+      }
+
   education: 
     - "Bachelor's in Electronics and Communication Engineering"
     - "Sri Eshwar College Of Engineering"
