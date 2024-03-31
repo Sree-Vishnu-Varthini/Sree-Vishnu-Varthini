@@ -19,47 +19,6 @@
 
 # :sparkles: About Me
 
-<!--```yaml
-Sree Vishnu Varthini:
-  pronouns: "she" | "her"
-  located_in: Coimbatore, India
-  title: "Full-Stack Developer"
-
-  skills:
-    [
-       web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
-       programming: [ C, Java, Python, Data Structures]
-       database: [ MongoDB, MySQL]
-    ]
-
-  education: 
-    - "Bachelor's in Electronics and Communication Engineering"
-    - "Sri Eshwar College Of Engineering"
-    - 2022 - 2026
-
-  technical_experience:
-    - "Intern - MERN Stack, RampeX Technologies"
-    - "Intern - Web Development, Octanet Services"
-    - "Intern - Embedded Systems, Emglitz Technologies"
-
-  fields_of_interests:
-    [
-      "Web Development"
-      "UI/UX"
-      "Artificial Intelligence"
-      "Prompt Engineering"
-    ]
-
-  professional_affiliations:
-    [
-      Secratary: "Toastmasters International"
-      Student_Member: "IEEE (Institute of Electrical and Electronics Engineers)"
-      Student_Member: "WIE (Women In Engineering)"
-    ]
-
-  hobbies: ["Reading", "Music", "Art"]
-``` -->
-
 ```yaml
 Sree Vishnu Varthini:
     pronouns: "she" | "her"
@@ -104,7 +63,6 @@ Sree Vishnu Varthini:
 - 🌐 I love building dynamic and responsive web applications that deliver seamless user experiences.
 - 🚀 Always eager to collaborate on exciting projects and contribute to open-source communities.
 -->
-
 <br>
 
 # :star2: My Projects
@@ -119,7 +77,7 @@ Sree Vishnu Varthini:
   <summary> E-Learning Management System </summary>
     <ul> <li>Developed an E-Learning Management System (E-LMS) using JavaFX and MySQL, facilitating seamless course delivery and management. </li> 
     <li> Implemented secure authentication, access controls, and an intuitive user interface for an enriched learning experience. </li> 
-    <li><strong>Tech Stack:</strong> <em> Java, JavaFX , MySQL </em>em></li></ul> 
+    <li><strong>Tech Stack:</strong> <em> Java, JavaFX , MySQL </em></li></ul> 
 </details>
 
 <details> 
@@ -146,7 +104,7 @@ Sree Vishnu Varthini:
 
 # ⚒️: Languages and Tools:
 <div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
   <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
@@ -222,7 +180,6 @@ Sree Vishnu Varthini:
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&style=plastic)
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&style=plastic)
   -->
-
 </div>
 <br>
 
@@ -238,3 +195,44 @@ Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 <h1>$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ </h1>
 --->
+
+<!--```yaml
+Sree Vishnu Varthini:
+  pronouns: "she" | "her"
+  located_in: Coimbatore, India
+  title: "Full-Stack Developer"
+
+  skills:
+    [
+       web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
+       programming: [ C, Java, Python, Data Structures]
+       database: [ MongoDB, MySQL]
+    ]
+
+  education: 
+    - "Bachelor's in Electronics and Communication Engineering"
+    - "Sri Eshwar College Of Engineering"
+    - 2022 - 2026
+
+  technical_experience:
+    - "Intern - MERN Stack, RampeX Technologies"
+    - "Intern - Web Development, Octanet Services"
+    - "Intern - Embedded Systems, Emglitz Technologies"
+
+  fields_of_interests:
+    [
+      "Web Development"
+      "UI/UX"
+      "Artificial Intelligence"
+      "Prompt Engineering"
+    ]
+
+  professional_affiliations:
+    [
+      Secratary: "Toastmasters International"
+      Student_Member: "IEEE (Institute of Electrical and Electronics Engineers)"
+      Student_Member: "WIE (Women In Engineering)"
+    ]
+
+  hobbies: ["Reading", "Music", "Art"]
+``` -->
