@@ -46,7 +46,8 @@ Sree Vishnu Varthini:
   professional_affiliations:
     [
       Secratary: "Toastmasters International"
-      Student_Member: "IEEE"
+      Student_Member: "IEEE (Institute of Electrical and Electronics Engineers)"
+      Student_Member: "WIE (Women In Engineering)"
     ]
 
   hobbies: ["Reading", "Music", "Art"]
