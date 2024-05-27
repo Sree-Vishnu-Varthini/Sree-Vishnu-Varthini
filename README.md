@@ -70,7 +70,7 @@ Sree Vishnu Varthini:
   <summary> Inventory Management System </summary>
     <ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
     <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em>em></li></ul> 
+    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul> 
 </details>
 
 <details> 
