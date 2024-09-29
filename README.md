@@ -1,5 +1,5 @@
 <h1>
-  Hi there ! :wave: I'm Vishnu Varthini
+  Hello there ! :wave: I'm Vishnu Varthini
 </h1>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSree-Vishnu-Varthini%2FSree-Vishnu-Varthini%2Fgithub-visitors-badge&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%2302066f&style=default&labelStyle=none)
@@ -23,9 +23,10 @@
 Sree Vishnu Varthini:
     pronouns: "she" | "her"
     located_in: Coimbatore, India
-    title: "Full-Stack Developer"
+    title: "RTL Design and Verification Engineer"
   
     skills:
+      -  RTL Design : [ Verilog, System Verilog, UVM, Linux, Python]
       -  web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
       -  programming: [ C, Java, Python, Data Structures]
       -  database: [ MongoDB, MySQL]
@@ -36,13 +37,13 @@ Sree Vishnu Varthini:
       -  2022 - 2026
   
     technical_experience:
+      - "Intern - eSim Fellowship, IIT Bombay"
       - "Intern - MERN Stack, RampeX Technologies"
-      - "Intern - Web Development, Octanet Services"
       - "Intern - Embedded Systems, Emglitz Technologies"
   
     fields_of_interests:
-      -  "Web Development"
-      -  "UI/UX"
+      -  RTL Design and Verification
+      -  VLSI
       -  "Artificial Intelligence"
       -  "Prompt Engineering"
   
