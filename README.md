@@ -66,6 +66,37 @@ Sree Vishnu Varthini:
 -->
 <br>
 
+# :briefcase: Expeience
+
+<details> 
+  <summary> Intern - RTL Design and Verification, VLSIGURU </summary>
+    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
+    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
+    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+</details>
+
+<details> 
+  <summary> Intern - eSim Fellowship, IIT Bombay </summary>
+    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
+    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
+    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+</details>
+
+<details> 
+  <summary> MERN Stack Intern - RampeX Technologies </summary>
+    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
+    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
+    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+</details>
+
+<details> 
+  <summary> Intern - Embedded Systems, Emglitz Technologies </summary>
+    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
+    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
+    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+</details>
+<br>
+
 # :star2: My Projects
 <details> 
   <summary> Inventory Management System </summary>
