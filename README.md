@@ -222,11 +222,11 @@ Sree Vishnu Varthini:
 
 # 📊 My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=vision-friendly-dark&card_width=1010)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=850&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=1010&show_icons=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sree-Vishnu-Varthini&theme=github-compact&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
