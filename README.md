@@ -228,7 +228,7 @@ Sree Vishnu Varthini:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=1010&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sree-Vishnu-Varthini&theme=github-compact&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sree-Vishnu-Varthini&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
