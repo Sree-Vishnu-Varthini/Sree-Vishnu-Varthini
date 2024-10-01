@@ -27,8 +27,8 @@ Sree Vishnu Varthini:
   
     skills:
       -  RTL Design : [ Verilog, System Verilog, UVM, Linux, Python]
+      -  programming: [ C, C++, Java, Python, Data Structures]
       -  web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
-      -  programming: [ C, Java, Python, Data Structures]
       -  database: [ MongoDB, MySQL]
   
     education: 
@@ -42,8 +42,8 @@ Sree Vishnu Varthini:
       - "Intern - Embedded Systems, Emglitz Technologies"
   
     fields_of_interests:
-      -  RTL Design and Verification
       -  VLSI
+      -  RTL Design and Verification
       -  "Artificial Intelligence"
       -  "Prompt Engineering"
   
@@ -77,23 +77,28 @@ Sree Vishnu Varthini:
 
 <details> 
   <summary> Intern - eSim Fellowship, IIT Bombay </summary>
-    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
-    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+  <ul> <li> Developed 15+ integrated circuit (IC) components for eSim software, adhering to datasheet specifications. </li> 
+  <li> Designed and implemented test circuits and sub-circuits to validate performance. </li> 
+  <li> Contributed to bug fixes and feature implementations. </li> 
+  <li> Documented processes and gained hands-on experience in EDA tools and circuit design. </li> 
+  <li> <strong> Skills:</strong> <em> Integrated Circuits (IC), Analog Circuit Design, eSim, Circuit Design, Integrated Circuit Design, LaTeX, Overleaf, Debugging </em></li>
 </details>
 
 <details> 
   <summary> MERN Stack Intern - RampeX Technologies </summary>
-    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
-    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+  <ul> <li> Developed a landing page and an inventory management system using the MERN Stack during the internship. </li>
+  <li> Implemented secure login pages with user authentication, enhancing application security. </li>
+  <li> Managed databases using MongoDB, enhancing data storage and retrieval efficiency. </li>
+  <li> Gained hands-on experience in full-stack development, focusing on database management, and user authentication in real-world applications. </li>
+  <li> <strong> Skills:</strong> <em> HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js, Mongoose ODM </em></li></ul>
 </details>
 
 <details> 
   <summary> Intern - Embedded Systems, Emglitz Technologies </summary>
-    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
-    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+  <ul> <li>Utilized Arduino boards and Arduino IDE for sensor integration, gaining practical experience in hardware-software interactions. </li> 
+  <li>Developed a strong foundation in embedded systems, applying knowledge to real-world applications and problem-solving. </li> 
+  <li>Acquired hands-on expertise in designing and implementing embedded solutions for various use cases. </li> 
+  <li> <strong>Skills:</strong> <em> Internet of Things (IoT), Embedded Systems, Arduino, Arduino IDE, Proteus, Embedded C, Embedded Software Programming </em></li>
 </details>
 <br>
 
@@ -102,7 +107,7 @@ Sree Vishnu Varthini:
   <summary> Inventory Management System </summary>
     <ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
     <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul> 
+    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js </em></li></ul> 
 </details>
 
 <details> 
