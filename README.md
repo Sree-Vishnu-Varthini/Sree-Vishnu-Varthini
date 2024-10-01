@@ -66,7 +66,7 @@ Sree Vishnu Varthini:
 -->
 <br>
 
-# :briefcase: Expeience
+# :briefcase: Experience
 
 <details> 
   <summary> Intern - RTL Design and Verification, VLSIGURU </summary>
