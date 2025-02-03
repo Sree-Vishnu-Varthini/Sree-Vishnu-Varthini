@@ -70,9 +70,10 @@ Sree Vishnu Varthini:
 
 <details> 
   <summary> Intern - RTL Design and Verification, VLSIGURU </summary>
-    <!--<ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
-    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js. </em></li></ul>-->
+   <ul> <li> Designed and verified RTL modules using Verilog for front-end development. </li>
+  <li> Applied advanced verification techniques with SystemVerilog and UVM to develop reusable verification environments. </li>
+  <li> Conducted thorough testing and validation to ensure design accuracy and performance.</li>
+  <li> <strong> Skills:</strong> <em> GVIM, Verilog, SystemVerilog, UVM (Universal Verification Methodology) </em></li></ul>
 </details>
 
 <details> 
@@ -81,7 +82,7 @@ Sree Vishnu Varthini:
   <li> Designed and implemented test circuits and sub-circuits to validate performance. </li> 
   <li> Contributed to bug fixes and feature implementations. </li> 
   <li> Documented processes and gained hands-on experience in EDA tools and circuit design. </li> 
-  <li> <strong> Skills:</strong> <em> Integrated Circuits (IC), Analog Circuit Design, eSim, Circuit Design, Integrated Circuit Design, LaTeX, Overleaf, Debugging </em></li>
+  <li> <strong> Skills:</strong> <em> Integrated Circuits (IC), Analog Circuit Design, eSim, Circuit Design, Integrated Circuit Design, LaTeX, Overleaf, Debugging </em></li></ul>
 </details>
 
 <details> 
