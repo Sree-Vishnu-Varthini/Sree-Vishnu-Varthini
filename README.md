@@ -236,7 +236,7 @@ Sree Vishnu Varthini:
 
 # 📊 My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sree-Vishnu-Varthini&theme=vision-friendly-dark&card_width=1010)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)
   
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sree-Vishnu-Varthini&layout=compact&theme=vision-friendly-dark&card_width=1010&border_color=FFFFFF)](https://github.com/Sree-Vishnu-Varthini/github-readme-stats)
 
