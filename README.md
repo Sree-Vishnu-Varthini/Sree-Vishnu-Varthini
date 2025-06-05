@@ -26,10 +26,8 @@ Sree Vishnu Varthini:
     title: "RTL Design and Verification Engineer"
   
     skills:
-      -  RTL Design : [ Verilog, System Verilog, UVM, Linux, Python]
-      -  programming: [ C, C++, Java, Python, Data Structures]
-      -  web-development : [ HTML, CSS, Javascript, React.js, Express.js, Node.js]
-      -  database: [ MongoDB, MySQL]
+      -  RTL Design : [ Verilog, System Verilog, UVM (Basics), Linux, Python]
+      -  programming: [ C, Python]
   
     education: 
       - "Bachelor's in Electronics and Communication Engineering"
@@ -37,15 +35,15 @@ Sree Vishnu Varthini:
       -  2022 - 2026
   
     technical_experience:
+      - "Intern - Physical Design, VLSI Expert"
+      - "Intern - RTL Design and Verification, VLSIGURU"
       - "Intern - eSim Fellowship, IIT Bombay"
-      - "Intern - MERN Stack, RampeX Technologies"
       - "Intern - Embedded Systems, Emglitz Technologies"
   
     fields_of_interests:
       -  VLSI
       -  RTL Design and Verification
-      -  "Artificial Intelligence"
-      -  "Prompt Engineering"
+      - Physical Design
   
     professional_affiliations:
       -  Secratary: "Toastmasters International"
@@ -86,15 +84,6 @@ Sree Vishnu Varthini:
 </details>
 
 <details> 
-  <summary> MERN Stack Intern - RampeX Technologies </summary>
-  <ul> <li> Developed a landing page and an inventory management system using the MERN Stack during the internship. </li>
-  <li> Implemented secure login pages with user authentication, enhancing application security. </li>
-  <li> Managed databases using MongoDB, enhancing data storage and retrieval efficiency. </li>
-  <li> Gained hands-on experience in full-stack development, focusing on database management, and user authentication in real-world applications. </li>
-  <li> <strong> Skills:</strong> <em> HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js, Mongoose ODM </em></li></ul>
-</details>
-
-<details> 
   <summary> Intern - Embedded Systems, Emglitz Technologies </summary>
   <ul> <li>Utilized Arduino boards and Arduino IDE for sensor integration, gaining practical experience in hardware-software interactions. </li> 
   <li>Developed a strong foundation in embedded systems, applying knowledge to real-world applications and problem-solving. </li> 
@@ -104,33 +93,7 @@ Sree Vishnu Varthini:
 <br>
 
 # :star2: My Projects
-<details> 
-  <summary> Inventory Management System </summary>
-    <ul> <li> Developed an Inventory Management System  using MERN Stack, enabling easy stock tracking and management. </li> 
-    <li> Implemented secure authentication, an intuitive user interface along  with CRUD operations  for a smooth app  experience. </li>
-    <li> <strong>Tech Stack:</strong> <em>HTML, CSS, Javascript, MongoDB, Express.js, Node.js, React.js </em></li></ul> 
-</details>
 
-<details> 
-  <summary> E-Learning Management System </summary>
-    <ul> <li>Developed an E-Learning Management System (E-LMS) using JavaFX and MySQL, facilitating seamless course delivery and management. </li> 
-    <li> Implemented secure authentication, access controls, and an intuitive user interface for an enriched learning experience. </li> 
-    <li><strong>Tech Stack:</strong> <em> Java, JavaFX , MySQL </em></li></ul> 
-</details>
-
-<details> 
-  <summary> Expense Tracker </summary>
-   <li></ul> Independently developed a Python-based Expense Tracker Application with a user-friendly graphical user interface (GUI) using Tkinter. </li>
-   <li>The application facilitates the efficient management of expenses, enabling users to add, delete, and categorize expenses based on date and description. </li>
-   <li><strong>Tech Stack:</strong> <em>Python, Tkinter</em> </li></ul> 
-</details>
-
-<details> 
-  <summary> Coffee Vending Machine Management System </summary>
-    <ul><li>Developed a coffee vending machine management system using Java and JavaFX, providing users with an intuitive and visually appealing experience.</li>
-    <li>Integrated MongoDB database to store and manage vending machine data, ensuring efficient data retrieval and storage.</li>
-    <li><strong>Tech Stack:</strong> <em>Java, JavaFX, MongoDB</em></li></ul>
-</details>
 
 <details> 
   <summary> Smart Agriculture Application </summary>
@@ -141,25 +104,9 @@ Sree Vishnu Varthini:
 <br>
 
 # ⚒️: Languages and Tools:
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
-  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">&nbsp;
-  <img width=50px src="https://cdn.iconscout.com/icon/free/png-256/free-git-18-1175219.png?f=webp">&nbsp;
-  <img width=50px src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png">&nbsp;
 
-<br>
-  
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -240,7 +187,7 @@ Sree Vishnu Varthini:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree-Vishnu-Varthini&theme=vision-friendly-dark&border_color=FFFFFF&card_width=1010&show_icons=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sree-Vishnu-Varthini&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sree-Vishnu-Varthini&theme=github-compact&height=400&title_color=ffa500&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 Sree-Vishnu-Varthini/Sree-Vishnu-Varthini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
