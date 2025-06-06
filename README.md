@@ -140,15 +140,6 @@ Sree Vishnu Varthini:
 </details>
 
 <details> 
-  <summary>  </summary>
-    <ul><li> </li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li><strong>Tech Stack:</strong><em> </em></li></ul>
-</details>
-
-<details> 
   <summary> Smart Agriculture Application </summary>
     <ul><li> Designed and developed a Smart Agriculture Application for real-time monitoring and efficient irrigation management.</li>
     <li>The application continuously tracks critical environmental parameters, including humidity, soil moisture, and temperature, and automatically activates the irrigation system when conditions deviate from set parameters.</li>
