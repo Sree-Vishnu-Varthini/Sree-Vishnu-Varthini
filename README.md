@@ -50,7 +50,12 @@ Sree Vishnu Varthini:
       -  Student_Member: "IEEE (Institute of Electrical and Electronics Engineers)"
       -  Student_Member: "WIE (Women In Engineering)"
 
-    hobbies: ["Reading", "Music", "Art"]
+    publications:
+      - Performance Analysis of 8/16/32-bit Calculator Using Verilog and SystemVerilog – IEEE, 2025
+      - Analysis of Bistable Multivibrator using Op-Amp – eSim, FOSSEE, IIT Bombay, 2024
+      - Analysis of Schmitt Trigger using Op-Amp – eSim, FOSSEE, IIT Bombay, 2024
+
+hobbies: ["Reading", "Music", "Art"]
 
     contact: 
       - Gmail : "sreevishnuvarthini@gmail.com"
