@@ -43,7 +43,7 @@ Sree Vishnu Varthini:
     fields_of_interests:
       -  VLSI
       -  RTL Design and Verification
-      - Physical Design
+      -  Physical Design
   
     professional_affiliations:
       -  Secratary: "Toastmasters International"
@@ -51,6 +51,9 @@ Sree Vishnu Varthini:
       -  Student_Member: "WIE (Women In Engineering)"
 
     hobbies: ["Reading", "Music", "Art"]
+
+    contact: 
+      - Gmail : "sreevishnuvarthini@gmail.com"
 ```
 
 
@@ -65,6 +68,14 @@ Sree Vishnu Varthini:
 <br>
 
 # :briefcase: Experience
+
+<details> 
+  <summary> Intern - Physical Design , VLSI Expert </summary>
+   <ul> <li> Hands-on experience in VLSI Physical Design: floorplanning, placement, CTS, and routing. </li>
+  <li> Used Synopsys Design Compiler and ICC2 for synthesis and backend implementation. </li>
+  <li>  Performed DRC and LVS for physical verification and design correctness. </li>
+  <li> <strong> Skills:</strong> <em> Physical Design, Floorplanning, Powerplanning, Placement </em></li></ul>
+</details>
 
 <details> 
   <summary> Intern - RTL Design and Verification, VLSIGURU </summary>
@@ -94,6 +105,30 @@ Sree Vishnu Varthini:
 
 # :star2: My Projects
 
+<details> 
+  <summary> SPI Master-Slave Protocol Design and Functional Verification in SystemVerilog </summary>
+    <ul><li> Designed SPI master-slave protocol in SystemVerilog for 12-bit data transfer. </li>
+    <li>Built modular testbench using generator, driver, monitor, and scoreboard. </li>
+    <li>Used mailboxes/events for synchronization; implemented virtual interface separation. </ul></li>
+    <li>Automated verification flow with tasks for reset, stimulus, monitoring, and comparison. </li>
+    <li><strong>Tech Stack:</strong><em> Verilog, SystemVerilog, EDA Playground </em></li></ul>
+</details>
+
+<details> 
+  <summary> Design and Verification of SPI Master using SystemVerilog </summary>
+    <ul><li> Designed SPI Master in Verilog with FSM for 12-bit data transmission. </li>
+    <li>Built SystemVerilog testbench with driver, generator, monitor, and scoreboard.</li>
+    <li>Used mailboxes and events for synchronized stimulus and checking. </li>
+    <li>Verified functionality with constrained-random inputs and self-checking scoreboard. </li>
+    <li><strong>Tech Stack:</strong><em> Verilog, SystemVerilog, EDA Playground </em></li></ul>
+</details>
+
+<details> 
+  <summary>  </summary>
+    <ul><li> </li>
+    <li></li>
+    <li><strong>Tech Stack:</strong><em> </em></li></ul>
+</details>
 
 <details> 
   <summary> Smart Agriculture Application </summary>
