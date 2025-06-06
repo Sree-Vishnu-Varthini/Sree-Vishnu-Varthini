@@ -131,7 +131,7 @@ Sree Vishnu Varthini:
 </details>
 
 <details> 
-  <summary>  </summary>
+  <summary> Lumicore - An IoT-Powered Smart Home Automation System </summary>
     <ul><li>Built IoT-based Smart Home System on RISC-V ARIES V3.0 board. </li>
     <li>Automated lighting, air quality monitoring, and gas/fire hazard detection.</li>
     <li>Developed web and mobile apps for remote control and real-time monitoring.</li>
