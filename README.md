@@ -27,6 +27,7 @@ Sree Vishnu Varthini:
   
     skills:
       -  RTL Design : [ Verilog, System Verilog, UVM (Basics), Linux, Python]
+      -  Physical Design
       -  programming: [ C, Python]
   
     education: 
