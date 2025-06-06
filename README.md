@@ -109,7 +109,7 @@ Sree Vishnu Varthini:
   <summary> SPI Master-Slave Protocol Design and Functional Verification in SystemVerilog </summary>
     <ul><li> Designed SPI master-slave protocol in SystemVerilog for 12-bit data transfer. </li>
     <li>Built modular testbench using generator, driver, monitor, and scoreboard. </li>
-    <li>Used mailboxes/events for synchronization; implemented virtual interface separation. </ul></li>
+    <li>Used mailboxes/events for synchronization; implemented virtual interface separation. </li>
     <li>Automated verification flow with tasks for reset, stimulus, monitoring, and comparison. </li>
     <li><strong>Tech Stack:</strong><em> Verilog, SystemVerilog, EDA Playground </em></li></ul>
 </details>
@@ -124,8 +124,26 @@ Sree Vishnu Varthini:
 </details>
 
 <details> 
+  <summary> Performance Analysis of a Power-On Reset Circuit Using Sky130 PDK Technology </summary>
+    <ul><li> Implemented a low-power Power-On Reset (PoR) circuit using current reference and comparator architecture with Sky130 PDK at 0.5V supply.</li>
+    <li>Utilized open-source EDA tools including eSim and Ngspice for schematic capture, simulation and verification. </li>
+    <li><strong>Tech Stack:</strong><em> eSim, Sky130 PDK, Ngspice </em></li></ul>
+</details>
+
+<details> 
+  <summary>  </summary>
+    <ul><li>Built IoT-based Smart Home System on RISC-V ARIES V3.0 board. </li>
+    <li>Automated lighting, air quality monitoring, and gas/fire hazard detection.</li>
+    <li>Developed web and mobile apps for remote control and real-time monitoring.</li>
+    <li>Enhanced user safety and convenience through integrated system design.</li>
+    <li><strong>Tech Stack:</strong><em>ARIES V3.0, NodeMCU, Flame Sensor, Gas Sensor, LDR, DHT11 sensor, Arduino IDE  </em></li></ul>
+</details>
+
+<details> 
   <summary>  </summary>
     <ul><li> </li>
+    <li></li>
+    <li></li>
     <li></li>
     <li><strong>Tech Stack:</strong><em> </em></li></ul>
 </details>
