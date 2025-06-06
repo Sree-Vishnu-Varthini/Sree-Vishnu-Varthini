@@ -55,7 +55,7 @@ Sree Vishnu Varthini:
       - Analysis of Bistable Multivibrator using Op-Amp – eSim, FOSSEE, IIT Bombay, 2024
       - Analysis of Schmitt Trigger using Op-Amp – eSim, FOSSEE, IIT Bombay, 2024
 
-hobbies: ["Reading", "Music", "Art"]
+    hobbies: ["Reading", "Music", "Art"]
 
     contact: 
       - Gmail : "sreevishnuvarthini@gmail.com"
